@@ -1,0 +1,2 @@
+Deploy the kubernates Dashboard
+kubectl apply -f https://raw.githubusercontent.com/kubernates/dashboard/v2.7.0/aio/deploy/recommended.yaml

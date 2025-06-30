@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: JRTP702-DataCollectionService
