@@ -1,6 +1,6 @@
-# Audit Service
+# 7674_RealTimeJava_Projects
 
-The **Audit Service** is a Spring Boot microservice designed to track and log user activities and events across the system. It plays a crucial role in providing traceability and accountability in a microservices architecture.
+This is a Spring Boot microservice designed to track and log user activities and events across the system. It plays a crucial role in providing traceability and accountability in a microservices architecture.
 
 ## 🔧 Features
 
